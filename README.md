@@ -1,9 +1,9 @@
 # FOSS APPS ON GOOGLE PLAYSTORE
 
 ## 2FA
-[AEGIS](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
-[Stratum Auth](https://play.google.com/store/apps/details?id=com.stratumauth.app)
-[Ente Auth](https://play.google.com/store/apps/details?id=com.stratumauth.app)
+* [AEGIS](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+* [Stratum Auth](https://play.google.com/store/apps/details?id=com.stratumauth.app)
+* [Ente Auth](https://play.google.com/store/apps/details?id=com.stratumauth.app)
 
 ## Ad Blockers and Tracker Monitoring
 [InviziblePro](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
