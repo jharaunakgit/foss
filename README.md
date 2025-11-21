@@ -78,8 +78,69 @@
 * [PairDrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop&hl=en)
 
 ## Finance
+* [Currencies](https://play.google.com/store/apps/details?id=de.salomax.currencies)
+* [My Expenses](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses)
+* [Sushi](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
+
+## Firewall
+[AFWall+](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+
+## Flash Cards
+[AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+
+## Flashlight
+[Flashy](https://play.google.com/store/apps/details?id=rocks.poopjournal.flashy)
+
+## Gallery
+* [Aves](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
+* [Gallery](https://play.google.com/store/apps/details?id=com.dot.gallery.gplay)
 
 ## Games
-### Chess
-[Lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
+* [Lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
+* [Mindustry](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
+* [Parlera](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
+* [Shattered Pixel Dungeon](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
+* [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
+* [Zoysii](https://play.google.com/store/apps/details?id=xyz.deepdaikon.z0ysii)
+* [Quinb](https://play.google.com/store/apps/details?id=xyz.deepdaikon.quinb)
+* [UnCiv](https://play.google.com/store/apps/details?id=com.unciv.app)
+* [Luanti](https://play.google.com/store/apps/details?id=net.minetest.minetest)
+
+## Github Client
+[DioHub](https://play.google.com/store/apps/details?id=com.felix.diohub)
+
+## Health
+[Did I Take My Meds?](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
+
+## Icon Pack
+* [Arcticons](https://play.google.com/store/apps/details?id=com.donnnno.arcticons)
+* [Delta](https://play.google.com/store/apps/details?id=website.leifs.delta)
+
+## Keyboard
+* [Futoboard](https://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore)
+* [Thumb-Key](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
+
+## Knowledge
+* [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science)
+* [Linux Command Library](https://play.google.com/store/apps/details?id=com.jlindemann.science)
+
+## Language
+[Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
+
+## Launchair
+* [Lawnchair Launcher](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
+* [KISS Launcher](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
+* [Lunar Launcher](https://play.google.com/store/apps/details?id=rasel.lunar.launcher)
+
+## Loyalty Card
+[Catima](https://play.google.com/store/apps/details?id=me.hackerchick.catima)
+
+## Maps
+* [Organic Maps](https://play.google.com/store/apps/details?id=app.organicmaps)
+* [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
+
+## Messaging
+* [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+* [Session](https://getsession.org/android)
+* [Delta Chat](https://play.google.com/store/apps/details?id=chat.delta)
 
