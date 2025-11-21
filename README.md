@@ -127,7 +127,7 @@
 ## Language
 [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
 
-## Launchair
+## Launcher
 * [Lawnchair Launcher](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 * [KISS Launcher](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 * [Lunar Launcher](https://play.google.com/store/apps/details?id=rasel.lunar.launcher)
@@ -202,3 +202,39 @@
 * [Goodtime](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
 * [Cofi](https://play.google.com/store/apps/details?id=com.omelan.cofi)
 * [Cuppa](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
+
+## Tasks
+* [Tasks.org](https://play.google.com/store/apps/details?id=org.tasks)
+* [PocketPlan](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
+* [ToDark](https://play.google.com/store/apps/details?id=com.yoshi.todark)
+* [1List](https://play.google.com/store/apps/details?id=com.lolo.io.onelist)
+
+## Torrenting
+[LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
+
+## (Habit or Event) Trackers
+* [BetterCounter](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
+* [Birday](https://play.google.com/store/apps/details?id=com.minar.birday)
+* [GreenStash](https://play.google.com/store/apps/details?id=com.starry.greenstash)
+* [Loop](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
+* [Habo](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
+* [Openreads](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
+* [Showly](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
+* [Simple Time Tracker](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
+* [Vacation Days](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
+* [drip](https://bloodyhealth.gitlab.io/android.html)
+
+## Unit Converter
+[Converter NOW](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
+
+## Video Player
+* [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+* [Just Player](https://play.google.com/store/apps/details?id=com.brouken.player)
+* [mpv](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+* [NOVA Video Player](https://play.google.com/store/apps/details?id=org.courville.nova)
+
+## Weather
+[Rain](https://play.google.com/store/apps/details?id=com.yoshi.rain)
+
+## Workout
+[Feeel](https://play.google.com/store/apps/details?id=com.enjoyingfoss.feeel)
