@@ -139,8 +139,66 @@
 * [Organic Maps](https://play.google.com/store/apps/details?id=app.organicmaps)
 * [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
 
+## Meditation
+[Medito](https://play.google.com/store/apps/details?id=meditofoundation.medito)
+
 ## Messaging
 * [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 * [Session](https://getsession.org/android)
 * [Delta Chat](https://play.google.com/store/apps/details?id=chat.delta)
 
+## Music Player
+* [Vinyl](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer)
+* [Noad Player](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
+
+## Notes
+* [Notally](https://play.google.com/store/apps/details?id=com.omgodse.notally)
+* [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+* [Safe Notes](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
+* [Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
+
+## Office Suite
+[Collabora Office](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
+
+## Package Manager
+[Package Manager](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
+
+## Password Manager
+* [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+
+## PDF Viewer
+* [MJ PDF](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
+* [Secure PDF Viewer GrapheneOS](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
+* [MuPDF viewer](https://play.google.com/store/apps/details?id=com.artifex.mupdf.viewer.app)
+
+## Podcast
+[AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+
+## RSS Reader
+* [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
+* [Capy Reader](https://play.google.com/store/apps/details?id=com.capyreader.app)
+
+## SMS Messenger
+[Fossify Messages](https://play.google.com/store/apps/details?id=org.fossify.messages)
+
+## SSH Client
+[ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot)
+
+## Stargazing
+[Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
+
+## System Cleaner
+[SD Maid](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+
+## Terminal Emulator
+[Termux](https://play.google.com/store/apps/details?id=com.termux)
+
+## Text Editor
+[Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+
+## Timer
+* [Goodtime](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
+* [Cofi](https://play.google.com/store/apps/details?id=com.omelan.cofi)
+* [Cuppa](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
