@@ -1,6 +1,6 @@
 # FOSS APPS ON GOOGLE PLAYSTORE
 
-***FOSS stands for Free and Open-Source Software.***
+**FOSS stands for Free and Open-Source Software.**
 
 ## Contents
 * [2FA](https://github.com/RaunakJha24/foss#2fa)
