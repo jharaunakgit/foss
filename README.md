@@ -179,7 +179,7 @@
 * [Delta](https://play.google.com/store/apps/details?id=website.leifs.delta)
 
 ## Keyboard
-* [Futoboard](https://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore)
+* [Futo Keyboard](https://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore)
 * [Thumb-Key](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 
 ## Knowledge
