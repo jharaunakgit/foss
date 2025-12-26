@@ -160,6 +160,7 @@
 ## Games
 * [Lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
 * [Mindustry](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
+* [Mental Math](https://play.google.com/store/apps/details?id=com.helddertierwelt.mentalmath)
 * [Parlera](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
 * [Shattered Pixel Dungeon](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 * [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
