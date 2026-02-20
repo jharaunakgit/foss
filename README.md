@@ -232,7 +232,6 @@
 * [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
 
 ## PDF Viewer
-* [MJ PDF](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 * [Secure PDF Viewer GrapheneOS](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 * [MuPDF viewer](https://play.google.com/store/apps/details?id=com.artifex.mupdf.viewer.app)
 
