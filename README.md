@@ -274,6 +274,7 @@
 * [PocketPlan](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
 * [ToDark](https://play.google.com/store/apps/details?id=com.yoshi.todark)
 * [1List](https://play.google.com/store/apps/details?id=com.lolo.io.onelist)
+* [Super Productivity: To-Do List](https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity)
 
 ## Torrenting
 [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
