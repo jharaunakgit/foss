@@ -26,6 +26,7 @@
 * [File Synchronization](https://github.com/RaunakJha24/foss?tab=readme-ov-file#file-synchronization)
 * [Finance](https://github.com/RaunakJha24/foss?tab=readme-ov-file#finance)
 * [Firewall](https://github.com/RaunakJha24/foss?tab=readme-ov-file#firewall)
+* [Fitness](https://github.com/RaunakJha24/foss?tab=readme-ov-file#fitness)
 * [Flash Cards](https://github.com/RaunakJha24/foss?tab=readme-ov-file#flash-cards)
 * [Flashlight](https://github.com/RaunakJha24/foss?tab=readme-ov-file#flashlight)
 * [Gallery](https://github.com/RaunakJha24/foss?tab=readme-ov-file#gallery)
@@ -154,6 +155,9 @@
 
 ## Firewall
 [AFWall+](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+
+## Fitness
+[FitoTrack](https://play.google.com/store/apps/details?id=de.tadris.fitness)
 
 ## Flash Cards
 [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
