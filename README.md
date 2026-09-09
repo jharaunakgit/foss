@@ -58,6 +58,7 @@
 * [Text Editor](https://github.com/RaunakJha24/foss?tab=readme-ov-file#text-editor)
 * [Timer](https://github.com/RaunakJha24/foss?tab=readme-ov-file#timer)
 * [Tasks](https://github.com/RaunakJha24/foss?tab=readme-ov-file#tasks)
+* [Tools](https://github.com/RaunakJha24/foss?tab=readme-ov-file#tools)
 * [Torrenting](https://github.com/RaunakJha24/foss?tab=readme-ov-file#torrenting)
 * [Trackers](https://github.com/RaunakJha24/foss?tab=readme-ov-file#trackers)
 * [Unit Converter](https://github.com/RaunakJha24/foss?tab=readme-ov-file#unit-converter)
@@ -286,6 +287,9 @@
 * [ToDark](https://play.google.com/store/apps/details?id=com.yoshi.todark)
 * [1List](https://play.google.com/store/apps/details?id=com.lolo.io.onelist)
 * [Super Productivity: To-Do List](https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity)
+
+## Tools
+[CPU Info](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo&hl=en-US)
 
 ## Torrenting
 [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
